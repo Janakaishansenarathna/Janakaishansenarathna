@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janakaishansenarathna" alt="janakaishansenarathna" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/janaka ishan senarathna" target="blank"><img src="https://img.shields.io/twitter/follow/janaka ishan senarathna?logo=twitter&style=for-the-badge" alt="janaka ishan senarathna" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+     <p align="left"> <a href="https://twitter.com/janaka ishan senarathna" target="blank"><img src="https://img.shields.io/twitter/follow/janaka ishan senarathna?logo=twitter&style=for-the-badge" alt="janaka ishan senarathna" /></a> </p>
 
 🌱 I’m currently learning **BSc (Honours) in Computer Science**
 

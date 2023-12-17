@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Janaka Ishan Senarathna.!!!!!</h1>
 <h3 align="center">An undergraduate in NSBM Green University.</h3>
+<h2 align="center">Welcome to the Heart of My Code! 🚀</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janakaishansenarathna&label=Profile%20views&color=0e75b6&style=flat" alt="janakaishansenarathna" /> </p>
 

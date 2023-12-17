@@ -28,7 +28,7 @@
 I believe in the continuous pursuit of knowledge and stay updated on the latest industry trends. Whether it's attending meetups, reading tech blogs, or experimenting with new technologies, I'm committed to staying on the cutting edge.<br><br>
 
 📫 Let's Connect<br><br>
-- LinkedIn: [](link)<br>
+- LinkedIn: [https://www.linkedin.com/in/janakaishansenarathna/](link)<br>
 - Twitter: [](link)<br><br>
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to chat about all things tech!<br><br>

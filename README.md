@@ -32,14 +32,29 @@
 🌱 Always Learning<br><br>
 I believe in the continuous pursuit of knowledge and stay updated on the latest industry trends. Whether it's attending meetups, reading tech blogs, or experimenting with new technologies, I'm committed to staying on the cutting edge.<br><br>
 
-📫 Let's Connect<br><br>
-- LinkedIn: [https://www.linkedin.com/in/janakaishansenarathna/](link)<br>
-- Twitter: [](link)<br><br>
+🌐Let's Connect and Code Together!<br><br>
 
-Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to chat about all things tech!<br><br>
-Happy coding! 🚀<br><br>
+Diving into the vast universe of code is an exciting journey, and I'm thrilled to share it with like-minded enthusiasts. Whether you're a fellow coder, a designer, or someone with a curious mind eager to explore the possibilities of technology, I invite you to join me in this collaborative adventure.<br><br>
+
+📫Why Connect?<br><br>
+Connecting isn't just about exchanging lines of code; it's about sharing insights, exploring diverse perspectives, and collectively unlocking the full potential of our creative minds. Let's break down barriers and build bridges between our coding worlds.<br><br>
+
+💻Discuss Ideas and Projects:<br><br>
+If you have a brilliant idea or a project you're passionate about, I'd love to hear it! Let's engage in discussions that transcend the ordinary and delve into the extraordinary. Together, we can brainstorm, refine concepts, and turn dreams into digital realities.<br><br>
+
+🛠️Learn and Grow Together:<br><br>
+Coding is a never-ending learning process, and I believe in the power of shared knowledge. Whether you're a seasoned developer or just starting your coding journey, let's support each other's growth. Share your experiences, ask questions, and let's elevate our skills collectively.<br><br>
+
+🎨Contribute to Open Source:<br><br>
+If you're passionate about open source or looking to make meaningful contributions to projects, let's explore opportunities together. Whether it's fixing bugs, adding features, or simply improving documentation, every contribution makes a difference.<br><br>
+
+🤝Reach Out Anytime:<br><br>
+Feel free to connect with me on social media, explore my projects, or drop me a message. I'm here not just to write code but to foster a community of learners, creators, and innovators. Let's connect, collaborate, and code something extraordinary!<br><br>
+
+🚀Happy coding!<br><br>
 Feel free to personalize it further based on your experiences, projects, and preferences. Adding links to your actual projects and social profiles will enhance the engagement on your GitHub profile.<br><br>
-⚡ Fun fact : I am lazy but smart
+
+⚡Fun fact : I am lazy but smart
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janakaishansenarathna/) 
@@ -78,7 +93,7 @@ Feel free to personalize it further based on your experiences, projects, and pre
 <a href="https://fb.com/janaka ishan senarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janaka senarathna" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🔍Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 

@@ -29,11 +29,10 @@
 - NSBM Green University, Homagama, Colombo, Sri Lanka.<br>
 - Expected Graduation: Oct 2026.<br><br>
 
-🌱 Always Learning<br><br>
-I believe in the continuous pursuit of knowledge and stay updated on the latest industry trends. Whether it's attending meetups, reading tech blogs, or experimenting with new technologies, I'm committed to staying on the cutting edge.<br><br>
+🌱 Always Learning<br>
+I believe in the continuous pursuit of knowledge and stay updated on the latest industry trends. Whether it's attending meetups, reading tech blogs, or experimenting with new technologies, I'm committed to staying on the cutting edge.<br>
 
 🌐Let's Connect and Code Together!<br>
-
 Diving into the vast universe of code is an exciting journey, and I'm thrilled to share it with like-minded enthusiasts. Whether you're a fellow coder, a designer, or someone with a curious mind eager to explore the possibilities of technology, I invite you to join me in this collaborative adventure.<br><br>
 
 📫Why Connect?<br>
@@ -67,14 +66,14 @@ Feel free to personalize it further based on your experiences, projects, and pre
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Janakaishansenarathna&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Janakaishansenarathna&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Janakaishansenarathna&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 
 ### 🚀 Inspirational Quote</p>
 
 ![Inspirational Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)</p>
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Janakaishansenarathna&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Janakaishansenarathna&limit=5&theme=nord&combine_all_yearly_contributions=true)

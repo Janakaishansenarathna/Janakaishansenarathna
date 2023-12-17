@@ -62,13 +62,6 @@ Feel free to personalize it further based on your experiences, projects, and pre
 ![](https://github-contributor-stats.vercel.app/api?username=Janakaishansenarathna&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janakaishansenarathna" alt="janakaishansenarathna" /></a> </p>
 <p><img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"</p>
 <p align="left"> <a href="https://twitter.com/janaka ishan senarathna" target="blank"><img src="https://img.shields.io/twitter/follow/janaka ishan senarathna?logo=twitter&style=for-the-badge" alt="janaka ishan senarathna" /></a> </p>
 - 📫 How to reach me **janakaishansenarathna0169@gmail.com**

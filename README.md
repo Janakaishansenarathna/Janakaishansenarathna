@@ -55,6 +55,15 @@ Feel free to personalize it further based on your experiences, projects, and pre
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
+### 🚀 Inspirational Quote
+
+![Inspirational Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+
+### 🌟 Motivational Quote
+
+![Motivational Quote](https://random-motivational-quotes.vercel.app/api/quote?theme=dark)
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Janakaishansenarathna&limit=5&theme=nord&combine_all_yearly_contributions=true)
 

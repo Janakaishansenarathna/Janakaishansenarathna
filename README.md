@@ -52,7 +52,7 @@ Feel free to personalize it further based on your experiences, projects, and pre
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Janakaishansenarathna&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<p align="right">### 🚀 Inspirational Quote
+### 🚀 Inspirational Quote</p>
 
 ![Inspirational Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)</p>
 

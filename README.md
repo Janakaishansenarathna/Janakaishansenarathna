@@ -59,9 +59,9 @@ Feel free to personalize it further based on your experiences, projects, and pre
 
 ![Inspirational Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
-### 🌟 Motivational Quote
+### 📜 Code Wisdom
 
-![Motivational Quote](https://random-motivational-quotes.vercel.app/api/quote?theme=dark)
+![Code Wisdom](https://coding-quote-generator.vercel.app/api/code?theme=light)
 
 
 ### 🔝 Top Contributed Repo

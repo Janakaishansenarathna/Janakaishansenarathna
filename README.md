@@ -5,11 +5,11 @@
 👋 Hello, Coders! I'm Janaka Ishan Senarathna..<br><br>I am a dynamic 2nd-year BSc (Hons) Computer Science student at NSBM Green University, is passionately focused on full-stack web development and mobile applications. With a keen interest in innovation, I excels in software development, database management, and artificial intelligence. My collaborative approach, strong communication skills, and dedication make myself an asset ready to contribute to the success of any organization. Connect with me to explore opportunities for impactful collaboration in the dynamic realms of full-stack web development and mobile applications.<br><br>
 
 🚀 What I Do<br><br>
-- **Full-Stack Development:** I'm well-versed in both front-end and back-end development, creating seamless and responsive user experiences.<br>
-- **Front End Web Development:** I have a strong passion for front-end web development and have actively worked in this domain to create visually appealing and user-friendly interfaces.<br>
+- **Full-Stack Development:** I'm well-versed in both front-end and back-end development, creating seamless and responsive user experiences.<br><br>
+- **Front End Web Development:** I have a strong passion for front-end web development and have actively worked in this domain to create visually appealing and user-friendly interfaces.<br><br>
 -**Back End Web Development:** I specialize exclusively in front-end web development, focusing on crafting seamless and engaging user experiences without venturing into back-end technologies.<br><br>
-- **UI Designer:** I am a dedicated UI designer, leveraging my creativity and attention to detail to craft visually stunning and intuitive user interfaces that elevate the overall user experience.<br>
-- **Problem Solver:** I enjoy tackling challenges head-on and am always eager to explore innovative solutions.<br>
+- **UI Designer:** I am a dedicated UI designer, leveraging my creativity and attention to detail to craft visually stunning and intuitive user interfaces that elevate the overall user experience.<br><br>
+- **Problem Solver:** I enjoy tackling challenges head-on and am always eager to explore innovative solutions.<br><br>
 -**Open Source Contributor:** Actively contributing to open source projects, because collaboration is at the heart of great software.<br><br>
 
 

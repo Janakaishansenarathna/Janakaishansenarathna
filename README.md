@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Janaka Ishan Senarathna.!!!!!</h1>
 <h3 align="center">An undergraduate in NSBM Green University.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=janakaishansenarathna&label=Profile%20views&color=0e75b6&style=flat" alt="janakaishansenarathna" /> </p>
+
 # 💫 About Me:
 👋 Hello, Coders! I'm Janaka Ishan Senarathna..<br><br>I am a dynamic 2nd-year BSc (Hons) Computer Science student at NSBM Green University, is passionately focused on full-stack web development and mobile applications. With a keen interest in innovation, I excels in software development, database management, and artificial intelligence. My collaborative approach, strong communication skills, and dedication make myself an asset ready to contribute to the success of any organization. Connect with me to explore opportunities for impactful collaboration in the dynamic realms of full-stack web development and mobile applications.<br><br>
 
@@ -32,7 +34,7 @@ I believe in the continuous pursuit of knowledge and stay updated on the latest 
 - Twitter: [](link)<br><br>
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to chat about all things tech!<br><br>
-Happy coding! 🚀<br><br>---<br><br>
+Happy coding! 🚀<br><br>
 Feel free to personalize it further based on your experiences, projects, and preferences. Adding links to your actual projects and social profiles will enhance the engagement on your GitHub profile.<br><br>
 ⚡ Fun fact : I am lazy but smart
 
@@ -56,14 +58,11 @@ Feel free to personalize it further based on your experiences, projects, and pre
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Janakaishansenarathna&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Janakaishansenarathna&icon=0&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janakaishansenarathna&label=Profile%20views&color=0e75b6&style=flat" alt="janakaishansenarathna" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janakaishansenarathna" alt="janakaishansenarathna" /></a> </p>
 <p><img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"</p>

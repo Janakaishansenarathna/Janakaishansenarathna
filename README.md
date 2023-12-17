@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Janaka Ishan Senarathna.!!!!!</h1>
 <h3 align="center">An undergraduate in NSBM Green University.</h3>
 
-# Random Quotes
-
-Refresh the page to see a new inspiring quote!
-
-
-<!-- Use an HTML iframe to embed the quote widget -->
-<iframe src="https://zen-quotes.vercel.app/api/quotes/random" frameborder="0" scrolling="no" width="300" height="150"></iframe>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janakaishansenarathna&label=Profile%20views&color=0e75b6&style=flat" alt="janakaishansenarathna" /> </p>
 
 # 💫 About Me:

@@ -53,7 +53,7 @@ Feel free to connect with me on social media, explore my projects, or drop me a 
 🚀Happy coding!<br>
 Feel free to personalize it further based on your experiences, projects, and preferences. Adding links to your actual projects and social profiles will enhance the engagement on your GitHub profile.<br><br>
 
-⚡Fun fact : I am lazy but smart
+⚡Fun fact : I am lazy but smart and I think I am Funny...
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janakaishansenarathna/) 
@@ -72,6 +72,8 @@ Feel free to personalize it further based on your experiences, projects, and pre
 
 ![Inspirational Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)</p>
 
+<p><img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Janakaishansenarathna&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
@@ -79,11 +81,9 @@ Feel free to personalize it further based on your experiences, projects, and pre
 ![](https://github-contributor-stats.vercel.app/api?username=Janakaishansenarathna&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 
-<p><img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"</p>
+
 <p align="left"> <a href="https://twitter.com/janaka ishan senarathna" target="blank"><img src="https://img.shields.io/twitter/follow/janaka ishan senarathna?logo=twitter&style=for-the-badge" alt="janaka ishan senarathna" /></a> </p>
 - 📫 How to reach me **janakaishansenarathna0169@gmail.com**
-
-- ⚡ Fun fact **I think I am Funny...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

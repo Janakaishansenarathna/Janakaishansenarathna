@@ -17,23 +17,6 @@
 - **Problem Solver:** I enjoy tackling challenges head-on and am always eager to explore innovative solutions.<br><br>
 - **Open Source Contributor:** Actively contributing to open source projects, because collaboration is at the heart of great software.<br><br>
 
-
-💡 Technologies & Tools<br><br>
-- **Languages:** Java, Python, JavaScript, C, SCSS <br>
-- **Databases:** MySQL, MongoDB<br>
-- **Frameworks:** Bootstrap, Tailwind CSS, Materialize CSS<br>
-- **Tools:** Git, Docker, Flutter, VS Code<br><br>
-
-📚 Education<br><br>
-- **BSc (Honours) in Computer Science**<br>
-- NSBM Green University, Homagama, Colombo, Sri Lanka.<br>
-- Expected Graduation: Oct 2026.<br><br>
-
-🚀Happy coding!<br>
-Feel free to personalize it further based on your experiences, projects, and preferences. Adding links to your actual projects and social profiles will enhance the engagement on your GitHub profile.<br><br>
-
-⚡Fun fact : I am lazy but smart and I think I am Funny...
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janakaishansenarathna/) 
 

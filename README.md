@@ -29,27 +29,6 @@
 - NSBM Green University, Homagama, Colombo, Sri Lanka.<br>
 - Expected Graduation: Oct 2026.<br><br>
 
-🌱 Always Learning<br>
-I believe in the continuous pursuit of knowledge and stay updated on the latest industry trends. Whether it's attending meetups, reading tech blogs, or experimenting with new technologies, I'm committed to staying on the cutting edge.<br>
-
-🌐Let's Connect and Code Together!<br>
-Diving into the vast universe of code is an exciting journey, and I'm thrilled to share it with like-minded enthusiasts. Whether you're a fellow coder, a designer, or someone with a curious mind eager to explore the possibilities of technology, I invite you to join me in this collaborative adventure.<br><br>
-
-📫Why Connect?<br>
-Connecting isn't just about exchanging lines of code; it's about sharing insights, exploring diverse perspectives, and collectively unlocking the full potential of our creative minds. Let's break down barriers and build bridges between our coding worlds.<br><br>
-
-💻Discuss Ideas and Projects:<br>
-If you have a brilliant idea or a project you're passionate about, I'd love to hear it! Let's engage in discussions that transcend the ordinary and delve into the extraordinary. Together, we can brainstorm, refine concepts, and turn dreams into digital realities.<br><br>
-
-🛠️Learn and Grow Together:<br>
-Coding is a never-ending learning process, and I believe in the power of shared knowledge. Whether you're a seasoned developer or just starting your coding journey, let's support each other's growth. Share your experiences, ask questions, and let's elevate our skills collectively.<br><br>
-
-🎨Contribute to Open Source:<br>
-If you're passionate about open source or looking to make meaningful contributions to projects, let's explore opportunities together. Whether it's fixing bugs, adding features, or simply improving documentation, every contribution makes a difference.<br><br>
-
-🤝Reach Out Anytime:<br>
-Feel free to connect with me on social media, explore my projects, or drop me a message. I'm here not just to write code but to foster a community of learners, creators, and innovators. Let's connect, collaborate, and code something extraordinary!<br><br>
-
 🚀Happy coding!<br>
 Feel free to personalize it further based on your experiences, projects, and preferences. Adding links to your actual projects and social profiles will enhance the engagement on your GitHub profile.<br><br>
 

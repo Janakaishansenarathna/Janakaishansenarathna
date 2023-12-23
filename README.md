@@ -253,9 +253,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Janakaishansenarathna&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Janakaishansenarathna&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
 
 <p><img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"</p>
 <p align="left"> <a href="https://twitter.com/janaka ishan senarathna" target="blank"><img src="https://img.shields.io/twitter/follow/janaka ishan senarathna?logo=twitter&style=for-the-badge" alt="janaka ishan senarathna" /></a> </p>

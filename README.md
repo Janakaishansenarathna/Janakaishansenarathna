@@ -9,9 +9,6 @@
 # 💫 About Me:
 👋 Hello, Coders! I'm Janaka Ishan Senarathna..<br><br>I am a dynamic 2nd-year BSc (Hons) Computer Science student at NSBM Green University, is passionately focused on full-stack web development and mobile applications. With a keen interest in innovation, I excels in software development, database management, and artificial intelligence. My collaborative approach, strong communication skills, and dedication make myself an asset ready to contribute to the success of any organization. Connect with me to explore opportunities for impactful collaboration in the dynamic realms of full-stack web development and mobile applications.<br><br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janakaishansenarathna/) 
-
 # 💻 Tech Stack:
 <div style="display: flex; align-items: flex-start; align: align ">
     <table align="">

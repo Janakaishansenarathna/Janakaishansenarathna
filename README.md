@@ -244,8 +244,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Janakaishansenarathna&theme=midnight_purple) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Janakaishansenarathna&theme=midnight_purple) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Janakaishansenarathna&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Janakaishansenarathna&theme=midnight_purple&utcOffset=8) <br>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Janakaishansenarathna&theme=chartreuse-dark&hide_border=true" alt="Goovibe" width="685" height=""> <br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Janakaishansenarathna&theme=midnight_purple&utcOffset=8)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Janakaishansenarathna&theme=chartreuse-dark&hide_border=true" alt="Goovibe" width="685" height="">
 <img src="https://github-contributor-stats.vercel.app/api?username=Janakaishansenarathna&limit=5&theme=chartreuse-dark&hide_border=true&combine_all_yearly_contributions=true" width="" height="222">
 <img src="https://github-readme-stats.vercel.app/api?username=Janakaishansenarathna&&theme=chartreuse-dark&hide_border=true" alt="Goovibe" width="" height="222">
 

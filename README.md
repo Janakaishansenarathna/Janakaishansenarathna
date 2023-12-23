@@ -23,6 +23,32 @@
 
 # 💻 Tech Stack:
 <div style="display: flex; align-items: flex-start; align: align ">
+   <style>
+    div {
+      max-width: 100%;
+      overflow-x: auto;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    td {
+      display: block;
+      width: 100%;
+      box-sizing: border-box;
+      text-align: center;
+      padding: 10px;
+    }
+    img {
+      margin-bottom: 10px;
+    }
+    @media (min-width: 768px) {
+      /* Additional styles for larger screens if needed */
+      td {
+        display: table-cell;
+      }
+    }
+  </style>
     <table align="">
       <tr>
         <td align="center" width="96">

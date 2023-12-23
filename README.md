@@ -1,5 +1,8 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
+<!-- Copyright Notice -->
+**Copyright © 2023 Your Name. All rights reserved.**
+
 <h1 align="center">Hi 👋, I'm Janaka Ishan Senarathna.!!!!!</h1>
 <h2 align="center">Welcome to the Heart of My Code! 🚀</h3>
 

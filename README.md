@@ -274,4 +274,7 @@
 <a href="https://fb.com/janaka ishan senarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janaka senarathna" height="30" width="40" /></a>
 </p>
 
+<br><br>
+<!-- Attribution Information -->
+If you use or adapt this work, please provide attribution to [Janakaishansenarathna](https://github.com/Janakaishansenarathna).
 

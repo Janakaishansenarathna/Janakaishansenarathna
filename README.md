@@ -246,8 +246,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Janakaishansenarathna&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Janakaishansenarathna&theme=midnight_purple&utcOffset=8)
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Janakaishansenarathna&theme=chartreuse-dark&hide_border=true" alt="Goovibe" width="685" height=""><br>
-<img src="https://github-contributor-stats.vercel.app/api?username=Janakaishansenarathna&limit=5&theme=chartreuse-dark&hide_border=true&combine_all_yearly_contributions=true" width="" height="200">
-<img src="https://github-readme-stats.vercel.app/api?username=Janakaishansenarathna&&theme=chartreuse-dark&hide_border=true" alt="Goovibe" width="" height="200">
+<img src="https://github-contributor-stats.vercel.app/api?username=Janakaishansenarathna&limit=5&theme=chartreuse-dark&hide_border=true&combine_all_yearly_contributions=true" width="300" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=Janakaishansenarathna&&theme=chartreuse-dark&hide_border=true" alt="Goovibe" width="300" height="200">
 
 
 # 🚀 Inspirational Quote

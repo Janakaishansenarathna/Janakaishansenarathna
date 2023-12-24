@@ -261,20 +261,21 @@
    </tr>
 </table>
 
+<table>
+   <tr>
+      <td>
+         <img align="" alt="coding" width="500" height="" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+      </td>
+      <td>
+         <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="coding" width="377" height="">
+      </td>
+   </tr>
+</table>
 
 
+<p></p>
 
-<p><img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"</p>
-<p align="left"> <a href="https://twitter.com/janaka ishan senarathna" target="blank"><img src="https://img.shields.io/twitter/follow/janaka ishan senarathna?logo=twitter&style=for-the-badge" alt="janaka ishan senarathna" /></a> </p>
-- 📫 How to reach me **janakaishansenarathna0169@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/janaka ishan senarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="janaka ishan senarathna" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/janakaishansenarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janakaishansenarathna" height="30" width="40" /></a>
-<a href="https://fb.com/janaka ishan senarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janaka senarathna" height="30" width="40" /></a>
-   
-</p>
 
 # 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/janakaishan) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/janakaishan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/janaka.ishan.senarathna.69) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/____janakaishansenarathna_____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/janakaishansenarathna) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@janakaishansenarathna0169) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Janakaishansenarathna) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Janaka-Ishan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Anonymousmarshmelow) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@SenarathnaIshan) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Janaka-Ishan) 

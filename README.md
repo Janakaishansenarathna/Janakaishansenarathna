@@ -7,16 +7,13 @@
 <h2 align="center">Welcome to the Heart of My Code! 🚀</h3>
 
    <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=I'm +a+Trainee+Full+Stack+Developer; || .Frond+End+Developer; || .UI/UX Designer ; ---->.From+Gampaha+, Sri+lanka ...... ;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=I'm +a+Trainee+Full+Stack+Developer; || .Frond+End+Developer; || .UI/UX Designer ; ---->.From+Gampaha+, Sri+lanka ...... ;" alt="Typing SVG" /></a>
 </div> 
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janakaishansenarathna&label=Profile%20views&color=0e75b6&style=flat" alt="janakaishansenarathna" /> </p>
 
 # 💫 About Me:
-👋 Hello, Coders! I'm Janaka Ishan Senarathna..<br><br>I am a dynamic 2nd-year BSc (Hons) Computer Science student at NSBM Green University, is passionately focused on full-stack web development and mobile applications. With a keen interest in innovation, I excels in software development, database management, and artificial intelligence. My collaborative approach, strong communication skills, and dedication make myself an asset ready to contribute to the success of any organization. Connect with me to explore opportunities for impactful collaboration in the dynamic realms of full-stack web development and mobile applications.<br><br>
+👋 Hello, Coders!<br><br>I am a dynamic 2nd-year BSc (Hons) Computer Science student at NSBM Green University, is passionately focused on full-stack web development and mobile applications. With a keen interest in innovation, I excels in software development, database management, and artificial intelligence. My collaborative approach, strong communication skills, and dedication make myself an asset ready to contribute to the success of any organization. Connect with me to explore opportunities for impactful collaboration in the dynamic realms of full-stack web development and mobile applications.<br><br>
 
 # 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Janakaishansenarathna&theme=radical&no-frame=true&no-bg=true&margin-w=4) <br><br>

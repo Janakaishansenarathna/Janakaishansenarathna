@@ -18,7 +18,7 @@
 # 💫 About Me:
 👋 Hello, Coders! I'm Janaka Ishan Senarathna..<br><br>I am a dynamic 2nd-year BSc (Hons) Computer Science student at NSBM Green University, is passionately focused on full-stack web development and mobile applications. With a keen interest in innovation, I excels in software development, database management, and artificial intelligence. My collaborative approach, strong communication skills, and dedication make myself an asset ready to contribute to the success of any organization. Connect with me to explore opportunities for impactful collaboration in the dynamic realms of full-stack web development and mobile applications.<br><br>
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Janakaishansenarathna&theme=radical&no-frame=true&no-bg=true&margin-w=4) <br><br>
 
 # 💻 Tech Stack:
@@ -256,9 +256,25 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=Janakaishansenarathna&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true" alt="Janakaishansenarathna" width="" height="186">
 
 
-# 🚀 Inspirational Quote
+<table>
+   <tr>
+      <td>
+         
+## 🚀 Inspirational Quote:
+![Inspirational Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+      </td>
+      <td>
+## 👩‍💻 Developer Quote:
 
-![Inspirational Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)</p>
+![Developer Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=Code%20is%20like%20poetry;%20most%20of%20it%20should%20not%20have%20been%20written.%20-%20But%20when%20it%20works,%20it's%20pure%20art.%20-%20Ward%20Cunningham)
+      </td>
+      <td>
+## 🌈 Inspirational Quote:
+
+![Inspirational Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=The%20only%20limit%20to%20our%20realization%20of%20tomorrow%20will%20be%20our%20doubts%20of%20today.%20-%20Franklin%20D.%20Roosevelt)
+      </td>
+   </tr>
+</table>
 
 
 
@@ -272,9 +288,10 @@
 <a href="https://twitter.com/janaka ishan senarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="janaka ishan senarathna" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/janakaishansenarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janakaishansenarathna" height="30" width="40" /></a>
 <a href="https://fb.com/janaka ishan senarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janaka senarathna" height="30" width="40" /></a>
+   
 </p>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/janakaishan) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/janakaishan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/janaka.ishan.senarathna.69) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/____janakaishansenarathna_____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/janakaishansenarathna) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@janakaishansenarathna0169) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Janakaishansenarathna) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Janaka-Ishan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Anonymousmarshmelow) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@SenarathnaIshan) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Janaka-Ishan) 
 
 <br><br>

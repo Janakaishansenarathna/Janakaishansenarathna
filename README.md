@@ -264,10 +264,10 @@
 <table>
    <tr>
       <td>
-         <img align="" alt="coding" width="500" height="" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+         <img align="" alt="coding" width="450" height="" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
       </td>
       <td>
-         <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="coding" width="377" height="">
+         <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="coding" width="340" height="">
       </td>
    </tr>
 </table>

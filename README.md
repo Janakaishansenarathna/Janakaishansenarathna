@@ -253,7 +253,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janakaishansenarathna&theme=midnight-purple&hide_border=true" alt="Janakaishansenarathna" width="470" height="">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janakaishansenarathna&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Janakaishansenarathna" height="186">
 <img src="https://github-readme-stats.vercel.app/api?username=Janakaishansenarathna&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" alt="Janakaishansenarathna" width="" height="186">
-<img src="https://github-contributor-stats.vercel.app/api?username=Janakaishansenarathna&limit=5&theme=chartreuse-dark&hide_border=true&combine_all_yearly_contributions=true" alt="Janakaishansenarathna" width="" height="186">
+<img src="https://github-contributor-stats.vercel.app/api?username=Janakaishansenarathna&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true" alt="Janakaishansenarathna" width="" height="186">
 
 
 # 🚀 Inspirational Quote

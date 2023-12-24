@@ -7,7 +7,7 @@
 <h2 align="center">Welcome to the Heart of My Code! 🚀</h3>
 
    <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=I'm +a+Trainee+Full+Stack+Developer; || .Frond+End+Developer; || .UI/UX Designer ; ---->.From+Gampaha+, Sri+lanka ...... ;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=I'm +a+Trainee+Full+Stack+Developer; || .Front+End+Developer; || .UI/UX Designer ; ---->.From+Gampaha+, Sri+lanka ...... ;" alt="Typing SVG" /></a>
 </div> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janakaishansenarathna&label=Profile%20views&color=0e75b6&style=flat" alt="janakaishansenarathna" /> </p>

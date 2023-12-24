@@ -1,4 +1,4 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![License: BSD-2-Clause](https://img.shields.io/badge/License-BSD--2--Clause-orange.svg)
 
 <!-- Copyright Notice -->
 **Copyright © 2023 Janakaishansenarathna. All rights reserved.**

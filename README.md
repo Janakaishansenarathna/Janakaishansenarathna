@@ -7,13 +7,18 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=I'm +a+Trainee+Full+Stack+Developer; || .Front+End+Developer; || .UI/UX Designer ; || .From+Gampaha+, Sri+lanka ;" alt="Typing SVG" /></a>
 </div> 
+       <p align="left"> <img src="https://komarev.com/ghpvc/?username=janakaishansenarathna&label=Profile%20views&color=0e75b6&style=flat" alt="janakaishansenarathna" /> </p>
+      
+
+
+ 
 
 <table>
   <tr>
     <td>
 
 # 💫 About Me:
-<p style="font-family:Righteous;">👋 Hello, Coders!<br><br>I am a dynamic 2nd-year BSc (Hons) Computer Science student at NSBM Green University, is passionately focused on full-stack web development and mobile applications. With a keen interest in innovation, I excels in software development, database management, and artificial intelligence. My collaborative approach, strong communication skills, and dedication make myself an asset ready to contribute to the success of any organization. Connect with me to explore opportunities for impactful collaboration in the dynamic realms of full-stack web development and mobile applications.</p>
+<p style="font-family:Righteous;">👋 Hello, Coders!<br><br>I am a dynamic 2nd-year BSc (Hons) Computer Science student at NSBM Green University, is passionately focused on full-stack web development and mobile applications. With a keen interest in innovation, I excels in software development, database management, and artificial intelligence. My collaborative approach, strong communication skills, and dedication make myself an asset ready to contribute to the success of any organization. Connect with me to explore opportunities for impactful collaboration in the dynamic realms of full-stack web development and mobile applications.</p> 
     </td>
     <td>
       <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" align="right" width="400">

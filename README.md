@@ -243,7 +243,7 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; align-items: flex-start; align: align ">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Janakaishansenarathna&theme=midnight_purple" width="840" height="">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Janakaishansenarathna&theme=midnight_purple" width="844" height="">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Janakaishansenarathna&theme=midnight_purple" width="420" height=""> 
 
@@ -252,10 +252,12 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Janakaishansenarathna&theme=midnight_purple" width="420" height="">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Janakaishansenarathna&theme=midnight_purple&utcOffset=8" width="420" height="">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Janakaishansenarathna&theme=midnight-purple&hide_border=true" alt="Janakaishansenarathna" width="" height="">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janakaishansenarathna&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Janakaishansenarathna" height="190">
-<img src="https://github-readme-stats.vercel.app/api?username=Janakaishansenarathna&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" alt="Janakaishansenarathna" width="" height="">
-<img src="https://github-contributor-stats.vercel.app/api?username=Janakaishansenarathna&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true" alt="Janakaishansenarathna" width="" height="192">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Janakaishansenarathna&theme=midnight-purple&hide_border=true" alt="Janakaishansenarathna" width="844" height="">
+<!--<img src="https://github-contributor-stats.vercel.app/api?username=Janakaishansenarathna&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true" alt="Janakaishansenarathna" width="" height="192">-->
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janakaishansenarathna&theme=midnight-purple&hide_border=true&layout=donut-vertical&langs_count=8" width="290" height="390">
+<img src="https://github-readme-stats.vercel.app/api?username=Janakaishansenarathna&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple&hide_border=true" width="550" height="400">
 </div>
 
 <table>
@@ -289,4 +291,8 @@
 
 <!-- Attribution Information -->
 If you use or adapt this work, please provide attribution to [Janakaishansenarathna](https://github.com/Janakaishansenarathna).
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janakaishansenarathna&theme=midnight-purple&hide_border=true&layout=donut-vertical&langs_count=8)](https://github.com/Janakaishansenarathna/github-readme-stats)
+![Janakaishansenarathna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janakaishansenarathna&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple&hide_border=true)
+
 

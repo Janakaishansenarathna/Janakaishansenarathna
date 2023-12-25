@@ -43,12 +43,12 @@
 </summary>
   
 <a href="https://github-trophies.vercel.app/?username=Janakaishansenarathna" target="_blank">
-  <img src="https://github-trophies.vercel.app/?username=Janakaishansenarathna&theme=radical&column=6&margin-w=&margin-h=">
+  <img src="https://github-trophies.vercel.app/?username=Janakaishansenarathna&theme=radical&column=6&margin-w=10&margin-h=5">
 </a>
 
 <br>
 
-![](https://github-profile-trophy.vercel.app/?username=Janakaishansenarathna&theme=radical&margin-w=&margin-h=&title=Reviews,Experience)
+![](https://github-profile-trophy.vercel.app/?username=Janakaishansenarathna&theme=radical&margin-w=10&margin-h=&title=Reviews,Experience)
 
 <br><br>
 </details>

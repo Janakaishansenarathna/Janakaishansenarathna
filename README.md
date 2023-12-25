@@ -35,8 +35,15 @@
 
 
 
-# 🏆 GitHub Trophies:
+<details>
+<summary>
+  <h1>
+    🏆 GitHub Trophies:
+  </h1>
+</summary>
+  
 ![](https://github-profile-trophy.vercel.app/?username=Janakaishansenarathna&theme=radical&no-frame=true&no-bg=true&margin-w=4) <br><br>
+</details>
 
 <details>
 <summary>
@@ -245,7 +252,6 @@
   </tr>
     </table></div>
 </details>
-    <br>
 
 <details>
   <summary>
@@ -264,7 +270,13 @@
 </div>
 </details>
 
-<table>
+<details>
+  <summary>
+    <h1>
+      ⚡Quotes:
+    </h1>
+  </summary>
+  <table>
    <tr>
       <td>
          
@@ -283,10 +295,9 @@
       </td>
    </tr>
 </table>
+</details>
          <img align="left" alt="coding" width="435" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
          <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="coding" width="400" height="400" align="right">
-      
-
 <p><br><br><br><br></p>
 
 

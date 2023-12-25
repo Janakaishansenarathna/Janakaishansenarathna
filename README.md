@@ -4,6 +4,7 @@
 **Copyright © 2023 Janakaishansenarathna. All rights reserved.**
 
 <h1 align="center">Hi 👋, I'm Janaka Ishan Senarathna.!!!!!</h1>
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" align="right" width="400">
 <h2 align="center">Welcome to the Heart of My Code! 🚀</h3>
 
    <div align="center">

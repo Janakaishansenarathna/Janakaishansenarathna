@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Janaka Ishan Senarathna.!!!!!</h1>
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" align="right" width="400">
 <h2 align="left">Welcome to the Heart of My Code! 🚀</h3>
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=I'm +a+Trainee+Full+Stack+Developer; || .Front+End+Developer; || .UI/UX Designer ; ---->.From+Gampaha+, Sri+lanka ...... ;" alt="Typing SVG" /></a>
 </div> 
 

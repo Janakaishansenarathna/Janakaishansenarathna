@@ -6,8 +6,8 @@
 <h1 align="center">Hi 👋, I'm Janaka Ishan Senarathna.!!!!!</h1>
 
 <h2 align="left">Welcome to the Heart of My Code! 🚀</h3>
-<div align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=I'm +a+Trainee+Full+Stack+Developer; || .Front+End+Developer; || .UI/UX Designer ; ---->.From+Gampaha+, Sri+lanka ...... ;" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=I'm +a+Trainee+Full+Stack+Developer; || .Front+End+Developer; || .UI/UX Designer ; || .From+Gampaha+, Sri+lanka ;" alt="Typing SVG" /></a>
 </div> 
 
 <table>

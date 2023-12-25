@@ -3,7 +3,7 @@
 <!-- Copyright Notice -->
 **Copyright © 2023 Janakaishansenarathna. All rights reserved.**
 
-<h1 align="center">Hi 👋, Welcome to the Heart of My Code! 🚀</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="55" height="55" />, Welcome to the Heart of My Code! 🚀</h1>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=I'm +a+Trainee+Full+Stack+Developer; || .Front+End+Developer; || .UI/UX Designer ; || .From+Gampaha+, Sri+lanka ;" alt="Typing SVG" /></a>
 </div> 

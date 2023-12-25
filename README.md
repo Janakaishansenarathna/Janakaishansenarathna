@@ -292,7 +292,4 @@
 <!-- Attribution Information -->
 If you use or adapt this work, please provide attribution to [Janakaishansenarathna](https://github.com/Janakaishansenarathna).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janakaishansenarathna&theme=midnight-purple&hide_border=true&layout=donut-vertical&langs_count=8)](https://github.com/Janakaishansenarathna/github-readme-stats)
-![Janakaishansenarathna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janakaishansenarathna&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple&hide_border=true)
-
 

@@ -36,6 +36,10 @@
 
 
 <details>
+  <summary>
+    <h1>HI</h1>
+  </summary>
+  <details>
 <summary>
   <h1>
     🏆 GitHub Trophies:
@@ -323,6 +327,7 @@
   </summary>
   <img align="left" alt="coding" width="440" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
          <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="coding" width="405" height="400" align="right">
+</details>
 </details>
 
 <!-- Attribution Information -->

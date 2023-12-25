@@ -296,13 +296,27 @@
    </tr>
 </table>
 </details>
-         <img align="left" alt="coding" width="435" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-         <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="coding" width="400" height="400" align="right">
-<p><br><br><br><br></p>
+        
 
-
-# 🌐 Socials:
+   <details>
+     <summary>
+     <h1>
+       🌐 Socials:
+     </h1>
+     </summary>
+       
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/janakaishan) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/janakaishan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/janaka.ishan.senarathna.69) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/____janakaishansenarathna_____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/janakaishansenarathna) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@janakaishansenarathna0169) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Janakaishansenarathna) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Janaka-Ishan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Anonymousmarshmelow) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@SenarathnaIshan) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Janaka-Ishan) 
+   </details>
+
+<details>
+  <summary>
+    <h1>
+      ⚡More:
+    </h1>
+  </summary>
+  <img align="left" alt="coding" width="435" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+         <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="coding" width="400" height="400" align="right">
+</details>
 
 <!-- Attribution Information -->
 If you use or adapt this work, please provide attribution to [Janakaishansenarathna](https://github.com/Janakaishansenarathna).

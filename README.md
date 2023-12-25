@@ -38,8 +38,13 @@
 # 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Janakaishansenarathna&theme=radical&no-frame=true&no-bg=true&margin-w=4) <br><br>
 
-# 💻 Tech Stack:
-<div style="display: flex; align-items: flex-start; align: align ">
+<details>
+<summary>
+  <h1>
+    💻 Tech Stack:
+  </h1>
+</summary>
+  <div style="display: flex; align-items: flex-start; align: align ">
     <table align="">
       <tr>
         <td align="center" width="96">
@@ -239,26 +244,25 @@
   </td>
   </tr>
     </table></div>
+</details>
     <br>
 
-# 📊 GitHub Stats:
+<details>
+  <summary>
+  <h1>📊 GitHub Stats:</h1>
+  </summary>
 <div style="display: flex; align-items: flex-start; align: align ">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Janakaishansenarathna&theme=midnight_purple" width="844" height="">
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Janakaishansenarathna&theme=midnight_purple" width="420" height=""> 
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Janakaishansenarathna&theme=midnight_purple" width="420" height="">
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Janakaishansenarathna&theme=midnight_purple" width="420" height="">
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Janakaishansenarathna&theme=midnight_purple&utcOffset=8" width="420" height="">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janakaishansenarathna&theme=midnight-purple&hide_border=true" alt="Janakaishansenarathna" width="844" height="">
 <!--<img src="https://github-contributor-stats.vercel.app/api?username=Janakaishansenarathna&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true" alt="Janakaishansenarathna" width="" height="192">-->
-
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janakaishansenarathna&theme=midnight-purple&hide_border=true&layout=donut-vertical&langs_count=8" width="290" height="390">
 <img src="https://github-readme-stats.vercel.app/api?username=Janakaishansenarathna&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple&hide_border=true" width="550" height="400">
 </div>
+</details>
 
 <table>
    <tr>

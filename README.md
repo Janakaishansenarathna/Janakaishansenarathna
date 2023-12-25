@@ -48,7 +48,7 @@
 
 <br>
 
-![](https://github-profile-trophy.vercel.app/?username=Janakaishansenarathna&theme=radical&margin-w=10&margin-h=&title=Reviews,Experience)
+![](https://github-profile-trophy.vercel.app/?username=Janakaishansenarathna&theme=radical&margin-w=30&margin-h=&title=Reviews,Experience)
 
 <br><br>
 </details>

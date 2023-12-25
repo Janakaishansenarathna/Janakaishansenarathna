@@ -42,7 +42,15 @@
   </h1>
 </summary>
   
-![](https://github-profile-trophy.vercel.app/?username=Janakaishansenarathna&theme=radical&no-frame=true&no-bg=true&margin-w=4) <br><br>
+<a href="https://github-trophies.vercel.app/?username=Janakaishansenarathna" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=Janakaishansenarathna&theme=radical&column=6&margin-w=10&margin-h=5">
+</a>
+
+<br>
+
+![](https://github-profile-trophy.vercel.app/?username=Janakaishansenarathna&theme=radical&margin-w=10&margin-h=&title=Reviews,Experience)
+
+<br><br>
 </details>
 
 <details>
@@ -322,3 +330,6 @@
 If you use or adapt this work, please provide attribution to [Janakaishansenarathna](https://github.com/Janakaishansenarathna).
 
 
+
+    
+        

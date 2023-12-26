@@ -2,7 +2,6 @@
 
 <!-- Copyright Notice -->
 <!--**Copyright © 2023 Janakaishansenarathna. All rights reserved.**-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janakaishansenarathna&label=Profile%20views&color=0e75b6&style=flat" alt="janakaishansenarathna" /> </p>
 
 <h1 align="center"> <i>Hi</i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="55" height="55" />, Welcome to the Heart of My Code ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="55" height="55" /></h1>
 <div align="center">

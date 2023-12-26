@@ -1,11 +1,11 @@
-
 <table>
   <tr>
-    <td><p align="left"> <img src="https://img.shields.io/badge/License-BSD--2--Clause-orange.svg" alt="janakaishansenarathna" /> </p></td>
-    <td><p align="right"> <img src="https://komarev.com/ghpvc/?username=janakaishansenarathna&label=Profile%20views&color=0e75b6&style=flat" alt="janakaishansenarathna" /> </p></td>
-    <td><h3><b><i> Copyright © 2023 Janakaishansenarathna. All rights reserved.</i></b></h3></td>
+    <td><p align="left"> <img src="https://img.shields.io/badge/License-BSD--2--Clause-orange.svg" alt="Janakaishansenarathna LISENCE" /> </p></td>
+    <td><p align="center"> <img src="https://komarev.com/ghpvc/?username=janakaishansenarathna&label=Profile%20views&color=0e75b6&style=flat" alt="Janakaishansenarathna" /> </p></td>
+    <td><p align="right"> <b><i> Copyright © 2023 Janakaishansenarathna. All rights reserved.</i></b></p></td>
   </tr>
 </table>
+
 <!-- Copyright Notice -->
 <!--**Copyright © 2023 Janakaishansenarathna. All rights reserved.**-->
 

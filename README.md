@@ -4,7 +4,7 @@
 Front End Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: SenarathnaIshan](https://img.shields.io/twitter/follow/SenarathnaIshan?style=social)](https://twitter.com/ThaiiBraga)
+[![Twitter: SenarathnaIshan](https://img.shields.io/twitter/follow/SenarathnaIshan?style=social)](https://twitter.com/SenarathnaIshan)
 [![Linkedin: janakaishansenarathna](https://img.shields.io/badge/-janakaishansenarathna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janakaishansenarathna/)](https://www.linkedin.com/in/janakaishansenarathna/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/Janakaishansenarathna?label=follow&style=social)](https://github.com/Janakaishansenarathna)
 

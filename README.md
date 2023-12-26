@@ -23,7 +23,7 @@
   <tr>
     <td>
 
-# 💫 About Me:
+## 💫 About Me:
 <span style="font-family: 'Righteous', cursive; font-size: 16px;">
 
 <h3><i>👋 Hello, Coders!</i></h3><b><i>I am a dynamic 2nd-year BSc (Hons) Computer Science student at NSBM Green University, passionately focused on full-stack web development and mobile applications. With a keen interest in innovation, I excel in software development, database management, and artificial intelligence. My collaborative approach, strong communication skills, and dedication make me an asset ready to contribute to the success of any organization. Connect with me to explore opportunities for impactful collaboration in the dynamic realms of full-stack web development and mobile applications.</i></b>
@@ -47,9 +47,9 @@
   </summary>
   <details>
 <summary>
-  <h1>
+  <h2>
     🏆 GitHub Trophies:
-  </h1>
+  </h2>
 </summary>
   
 <a href="https://github-trophies.vercel.app/?username=Janakaishansenarathna" target="_blank">
@@ -64,9 +64,9 @@
 
 <details>
 <summary>
-  <h1>
+  <h2>
     💻 Tech Stack:
-  </h1>
+  </h2>
 </summary>
   <div style="display: flex; align-items: flex-start; align: align ">
     <table align="">
@@ -197,7 +197,6 @@
             <img src="https://skillicons.dev/icons?i=atom" width="48" height="48" alt="atom" />
         <br>atom
         </td>
-        </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="azure" />
         <br>azure
@@ -221,7 +220,7 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
   <br>linux
-  </td>
+ </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="eclipse" />
   <br>eclipse
@@ -272,7 +271,7 @@
 
 <details>
   <summary>
-  <h1>📊 GitHub Stats:</h1>
+  <h2>📊 GitHub Stats:</h2>
   </summary>
 <div style="display: flex; align-items: flex-start; align: align ">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janakaishansenarathna&theme=midnight-purple&hide_border=true" alt="Janakaishansenarathna" width="844" height="">
@@ -290,9 +289,9 @@
 
 <details>
   <summary>
-    <h1>
+    <h2>
       ⚡Quotes:
-    </h1>
+    </h2>
   </summary>
   <table>
    <tr>
@@ -318,9 +317,9 @@
 
    <details>
      <summary>
-     <h1>
+     <h2>
        🌐 Socials:
-     </h1>
+     </h2>
      </summary>
 
 <a href="https://behance.net/janakaishan"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/janakaishan" width="120" height="30"></a>
@@ -341,9 +340,9 @@
 
 <details>
   <summary>
-    <h1>
+    <h2>
       ⚡More:
-    </h1>
+    </h2>
   </summary>
   <img align="left" alt="coding" width="440" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
          <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="coding" width="405" height="400" align="right">

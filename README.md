@@ -9,7 +9,7 @@ Trainee Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Thaiane](https://img.shields.io/github/followers/Janakaishansenarathna?label=follow&style=social)](https://github.com/Janakaishansenarathna)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"> A little more about me...  <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="100">
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="50">
 
 ```javascript 
 const Janaka = {

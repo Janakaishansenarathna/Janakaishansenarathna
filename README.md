@@ -269,12 +269,13 @@
   <h1>📊 GitHub Stats:</h1>
   </summary>
 <div style="display: flex; align-items: flex-start; align: align ">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janakaishansenarathna&theme=midnight-purple&hide_border=true" alt="Janakaishansenarathna" width="844" height="">
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Janakaishansenarathna&theme=midnight_purple" width="844" height="">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Janakaishansenarathna&theme=midnight_purple" width="420" height=""> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Janakaishansenarathna&theme=midnight_purple" width="420" height="">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Janakaishansenarathna&theme=midnight_purple" width="420" height="">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Janakaishansenarathna&theme=midnight_purple&utcOffset=8" width="420" height="">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Janakaishansenarathna&theme=midnight-purple&hide_border=true" alt="Janakaishansenarathna" width="844" height="">
 <!--<img src="https://github-contributor-stats.vercel.app/api?username=Janakaishansenarathna&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true" alt="Janakaishansenarathna" width="" height="192">-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janakaishansenarathna&theme=midnight-purple&hide_border=true&layout=donut-vertical&langs_count=8" width="290" height="390">
 <img src="https://github-readme-stats.vercel.app/api?username=Janakaishansenarathna&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple&hide_border=true" width="550" height="400">
@@ -315,8 +316,21 @@
        🌐 Socials:
      </h1>
      </summary>
-       
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/janakaishan) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/janakaishan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/janaka.ishan.senarathna.69) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/____janakaishansenarathna_____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/janakaishansenarathna) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@janakaishansenarathna0169) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Janakaishansenarathna) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Janaka-Ishan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Anonymousmarshmelow) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@SenarathnaIshan) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Janaka-Ishan) 
+
+<a href="https://behance.net/janakaishan"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/janakaishan" width="120" height="30"></a>
+<a href="https://discord.gg/janakaishan"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" width="120" height="30"></a>
+<a href="https://facebook.com/janaka.ishan.senarathna.69"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" width="120" height="30"></a>
+<a href="https://instagram.com/____janakaishansenarathna_____"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" width="120" height="30"></a>
+<a href="https://linkedin.com/in/janakaishansenarathna"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="120" height="30"></a>
+<a href="https://medium.com/@janakaishansenarathna0169"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" width="120" height="30"></a> <br>
+<a href="https://pinterest.com/Janakaishansenarathna"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" width="120" height="30"></a>
+<a href="https://quora.com/profile/Janaka-Ishan"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" width="120" height="30"></a>
+<a href="https://reddit.com/user/u/Anonymousmarshmelow"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" width="120" height="30"></a>
+<a href="https://twitter.com/@SenarathnaIshan"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" width="120" height="30"></a>
+<a href="https://codepen.io/@Janaka-Ishan"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" width="120" height="30"></a>
+<a href="https://mail.google.com/mail/janakaishansenarathna0169/0/#sent"><img src="https://img.shields.io/badge/gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" width="120" height="30"></a>
+
+
    </details>
 
 <details>

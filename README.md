@@ -1,8 +1,10 @@
 <h2> Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I'm Janaka Ishan Senarathna! <img src="https://user-images.githubusercontent.com/74038190/216649449-3f087222-10d7-4132-b128-0bb0830cdb9a.gif" width="50"></h2>
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" align="right" width="400">
-<p><em>Undergraduate at <a href="http://www.nsbm.ac.lk">NSBM Green University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<b>
+  <p><em>Undergraduate at <a href="http://www.nsbm.ac.lk">NSBM Green University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 Trainee Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+</b>
 
 [![Twitter: SenarathnaIshan](https://img.shields.io/twitter/follow/SenarathnaIshan?style=social)](https://twitter.com/SenarathnaIshan)
 [![Linkedin: janakaishansenarathna](https://img.shields.io/badge/-janakaishansenarathna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janakaishansenarathna/)](https://www.linkedin.com/in/janakaishansenarathna/)

@@ -23,10 +23,10 @@
   <tr>
     <td>
 
-## 💫 About Me: <i>👋 Hello, Coders!</i>
+## 💫 About Me: 
 <span style="font-family: 'Righteous', cursive; font-size: 16px;">
 
-<h3></h3><b><i>I am a dynamic 2nd-year BSc (Hons) Computer Science student at NSBM Green University, passionately focused on full-stack web development and mobile applications. With a keen interest in innovation, I excel in software development, database management, and artificial intelligence. My collaborative approach, strong communication skills, and dedication make me an asset ready to contribute to the success of any organization. Connect with me to explore opportunities for impactful collaboration in the dynamic realms of full-stack web development and mobile applications.</i></b>
+<h4><i>👋 Hello, Coders!</i></h4><b><i>I am a dynamic 2nd-year BSc (Hons) Computer Science student at NSBM Green University, passionately focused on full-stack web development and mobile applications. With a keen interest in innovation, I excel in software development, database management, and artificial intelligence. My collaborative approach, strong communication skills, and dedication make me an asset ready to contribute to the success of any organization. Connect with me to explore opportunities for impactful collaboration in the dynamic realms of full-stack web development and mobile applications.</i></b>
 
 </span>
     </td>

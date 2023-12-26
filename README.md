@@ -1,4 +1,4 @@
-<h2> Hi, I'm Janaka Ishan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I'm Janaka Ishan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" align="right" width="400">
 <p><em>Undergraduate at <a href="http://www.nsbm.ac.lk">NSBM Green University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 Front End Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -34,7 +34,7 @@ const Janaka = {
 ---
   </summary>
 
-  <table>
+  <table align="center">
   <tr>
     <td><p align="left"> <img src="https://img.shields.io/badge/License-BSD--2--Clause-orange.svg" alt="Janakaishansenarathna LISENCE" /> </p></td>
     <td><p align="center"> <img src="https://komarev.com/ghpvc/?username=janakaishansenarathna&label=Profile%20views&color=0e75b6&style=flat" alt="Janakaishansenarathna" /> </p></td>

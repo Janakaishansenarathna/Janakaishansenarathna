@@ -1,4 +1,4 @@
-<h2> Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I'm Janaka Ishan Senarathna! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I'm Janaka Ishan Senarathna! <img src="https://user-images.githubusercontent.com/74038190/216649449-3f087222-10d7-4132-b128-0bb0830cdb9a.gif" width="50"></h2>
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" align="right" width="400">
 <p><em>Undergraduate at <a href="http://www.nsbm.ac.lk">NSBM Green University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 Trainee Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -9,9 +9,9 @@ Trainee Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Thaiane](https://img.shields.io/github/followers/Janakaishansenarathna?label=follow&style=social)](https://github.com/Janakaishansenarathna)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"> A little more about me...  <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="100">
 
-```javascript
+```javascript 
 const Janaka = {
   pronouns: "He" | "his",
   code: [Javascript, HTML, CSS, SCSS, C, Python, Java],
@@ -29,8 +29,8 @@ const Janaka = {
 
 <details>
   <summary>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
+    <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" width="150">
 <!-- underline line --- -->
   </summary>
 

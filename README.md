@@ -23,7 +23,7 @@
   <tr>
     <td>
 
-## 💫 About Me: 
+## <i>💫 About Me: </i>
 <span style="font-family: 'Righteous', cursive; font-size: 16px;">
 
 <h4><i>👋 Hello, Coders!</i></h4><b><i>I am a dynamic 2nd-year BSc (Hons) Computer Science student at NSBM Green University, passionately focused on full-stack web development and mobile applications. With a keen interest in innovation, I excel in software development, database management, and artificial intelligence. My collaborative approach, strong communication skills, and dedication make me an asset ready to contribute to the success of any organization. Connect with me to explore opportunities for impactful collaboration in the dynamic realms of full-stack web development and mobile applications.</i></b>
@@ -48,7 +48,7 @@
   <details>
 <summary>
   <h2>
-    🏆 GitHub Trophies:
+    <i>🏆 GitHub Trophies:</i>
   </h2>
 </summary>
   
@@ -65,7 +65,7 @@
 <details>
 <summary>
   <h2>
-    💻 Tech Stack:
+    <i>💻 Tech Stack:</i>
   </h2>
 </summary>
   <div style="display: flex; align-items: flex-start; align: align ">
@@ -271,7 +271,9 @@
 
 <details>
   <summary>
-  <h2>📊 GitHub Stats:</h2>
+  <h2>
+    <i>📊 GitHub Stats:</i>
+  </h2>
   </summary>
 <div style="display: flex; align-items: flex-start; align: align ">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janakaishansenarathna&theme=midnight-purple&hide_border=true" alt="Janakaishansenarathna" width="844" height="">
@@ -290,7 +292,7 @@
 <details>
   <summary>
     <h2>
-      ⚡Quotes:
+      <i>⚡Quotes:</i>
     </h2>
   </summary>
   <table>
@@ -318,7 +320,7 @@
    <details>
      <summary>
      <h2>
-       🌐 Socials:
+       <i>🌐 Socials:</i>
      </h2>
      </summary>
 
@@ -341,7 +343,7 @@
 <details>
   <summary>
     <h2>
-      ⚡More:
+      <i>⚡More:</i>
     </h2>
   </summary>
   <img align="left" alt="coding" width="440" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

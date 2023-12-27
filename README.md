@@ -1,9 +1,24 @@
-<h2><img src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif" width="52"><img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="52"><strong><i>  Hi</i></strong> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Waving Hand" width="30" height="30" />, I'm Janaka Ishan Senarathna! <img src="https://user-images.githubusercontent.com/74038190/216649449-3f087222-10d7-4132-b128-0bb0830cdb9a.gif" width="50"><img src="https://user-images.githubusercontent.com/74038190/216655797-63671069-cb49-4ce1-a2d0-f15d1f4be193.gif" width="62"></h2>
+<h2>
+  <img src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif" width="52">
+  <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="52">
+  <strong><i>  Hi</i></strong> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Waving Hand" width="30" height="30" />, 
+  I'm Janaka Ishan Senarathna! 
+  <img src="https://user-images.githubusercontent.com/74038190/216649449-3f087222-10d7-4132-b128-0bb0830cdb9a.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/216655797-63671069-cb49-4ce1-a2d0-f15d1f4be193.gif" width="62">
+</h2>
+
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" align="right" width="400">
 <b>
-  <p><em>Undergraduate at <a href="http://www.nsbm.ac.lk">NSBM Green University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-Trainee Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+  <p>
+    <em>
+      Undergraduate at <a href="http://www.nsbm.ac.lk">NSBM Green University</a>
+      <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+    </br>
+      Trainee Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+   </em>
+  </p>
 </b>
 
 [![Twitter: SenarathnaIshan](https://img.shields.io/twitter/follow/SenarathnaIshan?style=social)](https://twitter.com/SenarathnaIshan)
@@ -11,7 +26,14 @@ Trainee Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Thaiane](https://img.shields.io/github/followers/Janakaishansenarathna?label=follow&style=social)](https://github.com/Janakaishansenarathna)
 
 
-### <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="50"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <i>A little more about me...</i>  <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="50"> <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="50">
+
+<h3>
+  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="50"> 
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+     <i>A little more about me...</i>  
+  <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="50"> 
+  <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="50">
+</h3>
 
 
 ```javascript 
@@ -30,17 +52,36 @@ const Janaka = {
 
 <details>
   <summary>
-    <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" width="50"><img src="https://user-images.githubusercontent.com/74038190/216656950-4ecec37b-f42b-4bd8-8cd5-55fecbe04df6.gif" width="45"> <em><b>I love connecting with different people</b> <b> so if you want to say hi, I'll be happy to meet you more!</b> :)</em>
-<img src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" width="50">
-    <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="60">
+    <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" width="50">
+    <img src="https://user-images.githubusercontent.com/74038190/216656950-4ecec37b-f42b-4bd8-8cd5-55fecbe04df6.gif" width="45"> 
+    <em>
+      <b>I love connecting with different people</b> 
+      <b> so if you want to say hi, I'll be happy to meet you more!</b> :)
+    </em>
+    
+  <img src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="60">
+  
 <!-- underline line --- -->
   </summary>
   <br><br><br>
   <table align="center">
   <tr>
-    <td><p align="left"> <img src="https://img.shields.io/badge/License-BSD--2--Clause-orange.svg" alt="Janakaishansenarathna LISENCE" /> </p></td>
-    <td><p align="center"> <img src="https://komarev.com/ghpvc/?username=janakaishansenarathna&label=Profile%20views&color=0e75b6&style=flat" alt="Janakaishansenarathna" /> </p></td>
-    <td><p align="right"> <b><i> Copyright © 2023 Janakaishansenarathna. All rights reserved.</i></b></p></td>
+    <td>
+      <p align="left">
+        <img src="https://img.shields.io/badge/License-BSD--2--Clause-orange.svg" alt="Janakaishansenarathna LISENCE" />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=janakaishansenarathna&label=Profile%20views&color=0e75b6&style=flat" alt="Janakaishansenarathna" />
+      </p>
+    </td>
+    <td>
+      <p align="right">
+        <b><i> Copyright © 2023 Janakaishansenarathna. All rights reserved.</i></b>
+      </p>
+    </td>
   </tr>
 </table>
 

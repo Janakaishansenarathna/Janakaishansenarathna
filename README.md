@@ -21,7 +21,6 @@ const Janaka = {
   tools: [React, Bootstrap, Node, Quasar, Styled-Components, Bootstap Studio, Docker],
   techCommunities: {
                         member: "IEEE"
-                        member: "FOSS"
                         mentor: "IEEE Computer Society"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react"

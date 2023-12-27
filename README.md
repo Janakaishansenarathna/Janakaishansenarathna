@@ -28,10 +28,9 @@ const Janaka = {
 ```
 
 
-
 <details>
   <summary>
-    <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" width="50"> <em><b>I love connecting with different people</b> <b> so if you want to say hi, I'll be happy to meet you more!</b> :)</em>
+    <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" width="50"><img src="https://user-images.githubusercontent.com/74038190/216656950-4ecec37b-f42b-4bd8-8cd5-55fecbe04df6.gif" width="50"> <em><b>I love connecting with different people</b> <b> so if you want to say hi, I'll be happy to meet you more!</b> :)</em>
 <img src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" width="50">
     <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="70">
 <!-- underline line --- -->

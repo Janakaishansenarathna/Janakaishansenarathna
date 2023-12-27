@@ -11,7 +11,7 @@ Trainee Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Thaiane](https://img.shields.io/github/followers/Janakaishansenarathna?label=follow&style=social)](https://github.com/Janakaishansenarathna)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <i>A little more about me...</i>  <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="50"> <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="50">
+### <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="50"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <i>A little more about me...</i>  <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="50"> <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="50">
 
 
 ```javascript 

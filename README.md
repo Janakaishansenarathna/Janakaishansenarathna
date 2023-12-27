@@ -35,6 +35,7 @@ const Janaka = {
     <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="70">
 <!-- underline line --- -->
   </summary>
+  <br><br><br>
   <table align="center">
   <tr>
     <td><p align="left"> <img src="https://img.shields.io/badge/License-BSD--2--Clause-orange.svg" alt="Janakaishansenarathna LISENCE" /> </p></td>

@@ -7,7 +7,7 @@
 ```javascript 
 const aboutMe = {
   name: "Janaka Ishan Senarathna",
-  pronouns: "He" | "Him",
+  pronouns: "he" | "his",
   university: "NSBM Green University",
   degree: "BSc (Hons) in Computer Science (2nd Year UG)",
   learning_goals: "JavaScript",

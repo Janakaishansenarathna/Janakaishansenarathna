@@ -11,7 +11,7 @@ const aboutMe = {
   university: "NSBM Green University",
   degree: "BSc (Hons) in Computer Science (2nd Year UG)",
   learning_goals: "JavaScript",
-  languages: "English, Sinhala, Tamil",
+  languages: "English, Sinhala",
   code: ["Javascript", "C", "HTML", "Java", "php", "CSS"],
   askMeAbout: ["web dev", "tech", "app dev", "wen design"],
   technologies: {

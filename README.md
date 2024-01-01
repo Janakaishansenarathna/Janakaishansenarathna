@@ -30,6 +30,7 @@ const aboutMe = {
                       member: ["IEEE"],
                       member: ["IEEE Computer Society"],
                       member: ["FOSS"],
+                      member: ["ISACA"],
                     },
   architecture: ["Progressive web applications", "Single page applications"],
   currentProject: ["I am developing my own project"],

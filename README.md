@@ -44,7 +44,7 @@ const aboutMe = {
   certifications: {
                     ["Postman Student Expert"],
                     ["Oracle Certifications"],
-                  }
+                  },
   interests: {
                 ["Nature"],
                 ["Animals"],

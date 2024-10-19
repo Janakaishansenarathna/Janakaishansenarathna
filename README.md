@@ -17,7 +17,7 @@ const aboutMe = {
   technologies: {
       mobileApp: ["Android App"],
       frontEnd: {
-          js: ["react", "vue"],
+          js: ["react", "svelte"],
           css: ["tailwind", "bootstrap"]
       },
       backEnd: {
@@ -27,7 +27,7 @@ const aboutMe = {
       databases: ["mongo", "MySql"],
       misc: ["php"]
       },
-  tools: [React, Bootstrap, Node, Quasar, Styled-Components, Bootstap Studio, Docker],
+  tools: [VS Code, Bootstap Studio],
   techCommunities: {
                       member: ["IEEE"],
                       member: ["IEEE Computer Society"],
